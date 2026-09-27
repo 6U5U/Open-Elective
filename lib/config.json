@@ -1,0 +1,196 @@
+{
+  "kind": "course",
+  "brand": "elective",
+  "title": "Good classes. Better semesters.",
+  "subtitle": "Find something worth learning, with a workload you can actually live with.",
+  "accent": "#4535d1",
+  "light": "#efedff",
+  "noun": "course",
+  "plural": "courses",
+  "metrics": [
+    "Interest",
+    "Teaching",
+    "Difficulty"
+  ],
+  "categories": [
+    "Arts & humanities",
+    "Science & technology",
+    "Social sciences"
+  ],
+  "items": [
+    {
+      "id": "example-1",
+      "name": "Film & Everyday Life",
+      "school": "Northbridge University",
+      "category": "Arts & humanities",
+      "meta": "FILM 104 \u00b7 Dr. Avery",
+      "tags": [
+        "No final exam",
+        "Writing"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-0",
+          "term": "Spring 2026",
+          "body": "You start noticing the choices behind every scene. Keep up with the short weekly responses.",
+          "rating": 5,
+          "m1": 5,
+          "m2": 5,
+          "m3": 2,
+          "hours": 3,
+          "recommend": true,
+          "instructor": "Dr. Avery",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-2",
+      "name": "Our Place in Space",
+      "school": "Northbridge University",
+      "category": "Science & technology",
+      "meta": "ASTR 110 \u00b7 Dr. Chen",
+      "tags": [
+        "Exam-based",
+        "Beginner-friendly"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-1",
+          "term": "Spring 2026",
+          "body": "A window into astronomy without a physics prerequisite. Expect some basic algebra.",
+          "rating": 4,
+          "m1": 5,
+          "m2": 4,
+          "m3": 3,
+          "hours": 4,
+          "recommend": true,
+          "instructor": "Dr. Chen",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-3",
+      "name": "Design for Everyone",
+      "school": "Northbridge University",
+      "category": "Arts & humanities",
+      "meta": "DES 120 \u00b7 Prof. Morgan",
+      "tags": [
+        "No final exam",
+        "Projects"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-2",
+          "term": "Spring 2026",
+          "body": "My favorite class, but definitely not a free credit. Projects take real time.",
+          "rating": 5,
+          "m1": 5,
+          "m2": 5,
+          "m3": 3,
+          "hours": 6,
+          "recommend": true,
+          "instructor": "Prof. Morgan",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-4",
+      "name": "Psychology of Habits",
+      "school": "Northbridge University",
+      "category": "Social sciences",
+      "meta": "PSYC 115 \u00b7 Dr. Ellis",
+      "tags": [
+        "Exam-based",
+        "Beginner-friendly"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-3",
+          "term": "Spring 2026",
+          "body": "Useful ideas and manageable readings. The lectures matter more than the slides.",
+          "rating": 4,
+          "m1": 4,
+          "m2": 4,
+          "m3": 2,
+          "hours": 3,
+          "recommend": true,
+          "instructor": "Dr. Ellis",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-5",
+      "name": "Cities & Society",
+      "school": "Northbridge University",
+      "category": "Social sciences",
+      "meta": "SOC 130 \u00b7 Dr. Reyes",
+      "tags": [
+        "Writing",
+        "Discussion"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-4",
+          "term": "Spring 2026",
+          "body": "You see your neighborhood differently after this. Plenty to read and talk about.",
+          "rating": 4,
+          "m1": 5,
+          "m2": 4,
+          "m3": 3,
+          "hours": 5,
+          "recommend": true,
+          "instructor": "Dr. Reyes",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    },
+    {
+      "id": "example-6",
+      "name": "Creative Coding",
+      "school": "Northbridge University",
+      "category": "Science & technology",
+      "meta": "CS 108 \u00b7 Prof. Blake",
+      "tags": [
+        "Projects",
+        "Beginner-friendly"
+      ],
+      "example": true,
+      "reviews": [
+        {
+          "id": "example-review-5",
+          "term": "Spring 2026",
+          "body": "A welcoming introduction to making things with code. Give yourself time to debug.",
+          "rating": 5,
+          "m1": 5,
+          "m2": 5,
+          "m3": 3,
+          "hours": 5,
+          "recommend": true,
+          "instructor": "Prof. Blake",
+          "own": false,
+          "createdAt": "2026-05-20T12:00:00Z",
+          "example": true
+        }
+      ]
+    }
+  ]
+}
